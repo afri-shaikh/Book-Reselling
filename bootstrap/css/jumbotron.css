@@ -1,0 +1,10 @@
+body{
+    padding-top: 30px;
+    padding-bottom: 20px;
+	text-align:center;
+	
+}
+
+#main > :first-child{
+	margin-top: 10px;
+}
